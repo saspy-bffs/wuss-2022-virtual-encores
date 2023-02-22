@@ -1,4 +1,4 @@
-[![Python 3.7](https://img.shields.io/badge/python-3.7-brightgreen.svg)](#prerequisites)  [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)  [![Gitter](https://img.shields.io/gitter/room/saspy-bffs/community.svg?color=777777)](https://gitter.im/saspy-bffs/community)
+[![Python 3.8](https://img.shields.io/badge/python-3.8-brightgreen.svg)](#prerequisites)  [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)  [![Gitter](https://img.shields.io/gitter/room/saspy-bffs/community.svg?color=777777)](https://gitter.im/saspy-bffs/community)
 
 
 # Everything is Better with Friends: Using SAS in Python Applications with SASPy and Open-Source Tooling
@@ -12,16 +12,19 @@ Materials provided:
 
 - __Getting Started__ class on 03MAR2023:
 
-  - [Examples and Exercises](https://colab.research.google.com/drive/[NOTEBOOK-ID]#offline=true&sandboxMode=true) as an interactive Google Colab Notebook
+  - [Examples and Exercises](https://colab.research.google.com/drive/1FbgkTs1_bYDBY590DDAt2dxpg87X3u9b#offline=true&sandboxMode=true) as an interactive Google Colab Notebook
 
-  - [Solutions to all Exercises](https://colab.research.google.com/drive/[NOTEBOOK-ID]#offline=true&sandboxMode=true) as an interactive Google Colab Notebook
+  - [Solutions to all Exercises](https://colab.research.google.com/drive/1swNT4HRGNfinA6uCU29UswySwONaJHbW#offline=true&sandboxMode=true) as an interactive Google Colab Notebook
 
-  - [Solutions to all Exercises](solutions/Everything_is_Better_with_Friends-Getting_Started-Solutions.pdf) as a PDF file
+  - [Solutions to all Exercises](solutions/Solutions-Getting_Started-Everything_Is_Better_With_Friends-WUSS2022_Encore.pdf) as a PDF file
 
-  - [Slides](slides/Everything_is_Better_with_Friends-Getting_Started-Slides.pdf) as a PDF file
+  - {Slides PDF to be added} <!--- [Slides](slides/Everything_is_Better_with_Friends-Getting_Started-Slides.pdf) as a PDF file -->
 
 
 - __Beyond the Basics__ class on 10MAR2023:
+
+  - {Materials to be added}
+<!--- 
   - Examples and Exercises as interactive Google Colab Notebooks:
     - [Part 1](https://colab.research.google.com/drive/[NOTEBOOK-ID]#offline=true&sandboxMode=true)
     - [Part 2](https://colab.research.google.com/drive/[NOTEBOOK-ID]#offline=true&sandboxMode=true)
@@ -41,7 +44,7 @@ Materials provided:
     - [Part 4](solutions/Everything_is_Better_with_Friends-Beyond_the_Basics-Part4-Solutions.pdf)
     
   - [Slides](slides/Everything_is_Better_with_Friends-Beyond_the_Basics-Slides.pdf) as a PDF file
-
+ -->
 
 ## Setup Instructions & Prerequisites
 
@@ -58,9 +61,9 @@ In order to interact with code examples, accounts for the following two online s
   - If you don't already have an ODA account, you can create one for free at [https://welcome.oda.sas.com/](https://welcome.oda.sas.com/)
   - Note: To create an ODA account, you will also need a SAS Profile account. If you don't already have a SAS Profile account, you can create one for free using the "Don't have a SAS Profile?" link on the ODA login page.
 
-To test your setup, please follow the instructions in our [Setup Test Colab Notebook](https://colab.research.google.com/drive/[NOTEBOOK-ID]#offline=true&sandboxMode=true). If desired, you can use the __File__ -> __Save a Copy in Drive__ command to save a copy of the results to your Google Drive.
+To test your setup, please follow the instructions in our [Setup Test Colab Notebook](https://colab.research.google.com/drive/1qtnXrOmAYAlulrtUPrnJ-7KfVGXEmcws#offline=true&sandboxMode=true). If desired, you can use the __File__ -> __Save a Copy in Drive__ command to save a copy of the results to your Google Drive.
 
-All in-class examples assume the use of Google Colab and ODA, and we will not be able to provide support for any other setup. However, if you're interested in using a local SASPy environment, with Python talking to a commercial SAS installation, you're welcome to follow the setup instructions for the demo application [https://github.com/saspy-bffs/dataset-explorer](https://github.com/saspy-bffs/dataset-explorer).
+All in-class examples assume the use of Google Colab and ODA, and we will not be able to provide support for any other setup. However, if you're interested in using a local SASPy environment, with Python talking to a commercial SAS installation, you're welcome to follow the setup instructions for the demo application at [https://github.com/saspy-bffs/dataset-explorer](https://github.com/saspy-bffs/dataset-explorer)
 
 
 ### Attendee Prerequisites
