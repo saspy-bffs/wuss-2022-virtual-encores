@@ -18,7 +18,7 @@ Materials provided:
 
   - [Solutions to all Exercises](solutions/Solutions-Getting_Started-Everything_Is_Better_With_Friends-WUSS2022_Encore.pdf) as a PDF file
 
-  - {Slides PDF to be added} <!--- [Slides](slides/Everything_is_Better_with_Friends-Getting_Started-Slides.pdf) as a PDF file -->
+  - [Slides](slides/Slides-Getting_Started-Everything_Is_Better_With_Friends-WUSS2022_Encore.pdf) as a PDF file
 
 
 - __Beyond the Basics__ class on 10MAR2023:
