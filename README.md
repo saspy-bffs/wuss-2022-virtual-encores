@@ -23,28 +23,26 @@ Materials provided:
 
 - __Beyond the Basics__ class on 10MAR2023:
 
-  - {Materials to be added}
-<!--- 
   - Examples and Exercises as interactive Google Colab Notebooks:
-    - [Part 1](https://colab.research.google.com/drive/[NOTEBOOK-ID]#offline=true&sandboxMode=true)
-    - [Part 2](https://colab.research.google.com/drive/[NOTEBOOK-ID]#offline=true&sandboxMode=true)
-    - [Part 3](https://colab.research.google.com/drive/[NOTEBOOK-ID]#offline=true&sandboxMode=true)
-    - [Part 4](https://colab.research.google.com/drive/[NOTEBOOK-ID]#offline=true&sandboxMode=true)
+    - [Part 1](https://colab.research.google.com/drive/1PhJre0DozcR-G016IPKpq6N2rUBEO_8q#offline=true&sandboxMode=true)
+    - [Part 2](https://colab.research.google.com/drive/14tTYCG1uWaiNNcWp7jH5MJPbQ8GlvdAX#offline=true&sandboxMode=true)
+    - [Part 3](https://colab.research.google.com/drive/12bWkMqqFrI0OufOHLsA4rnc9Hz1T3YVP#offline=true&sandboxMode=true)
+    - [Part 4](https://colab.research.google.com/drive/1lDgIsKyq_FTDxDD6wX8wgWMwF3s2wo6m#offline=true&sandboxMode=true)
     
   - Solutions to all Exercises as interactive Google Colab Notebooks:
-    - [Part 1](https://colab.research.google.com/drive/[NOTEBOOK-ID]#offline=true&sandboxMode=true)
-    - [Part 2](https://colab.research.google.com/drive/[NOTEBOOK-ID]#offline=true&sandboxMode=true)
-    - [Part 3](https://colab.research.google.com/drive/[NOTEBOOK-ID]#offline=true&sandboxMode=true)
-    - [Part 4](https://colab.research.google.com/drive/[NOTEBOOK-ID]#offline=true&sandboxMode=true)
+    - [Part 1](https://colab.research.google.com/drive/1wepSGwuWPzen4cQijjbrxN7y15UQR-lF#offline=true&sandboxMode=true)
+    - [Part 2](https://colab.research.google.com/drive/1IUgK7WZQIP_JQzxJvLDqLj5OqePl1Oaw#offline=true&sandboxMode=true)
+    - [Part 3](https://colab.research.google.com/drive/1lDBYB2HvxA10tFvMJXQ5VgbsoHAujrXr#offline=true&sandboxMode=true)
+    - [Part 4](https://colab.research.google.com/drive/1kPCP85Wk13Vyv-xSxMXY_TqldGXVypCy#offline=true&sandboxMode=true)
     
   - Solutions to all Exercises as PDF files:
-    - [Part 1](solutions/Everything_is_Better_with_Friends-Beyond_the_Basics-Part1-Solutions.pdf)
-    - [Part 2](solutions/Everything_is_Better_with_Friends-Beyond_the_Basics-Part2-Solutions.pdf)
-    - [Part 3](solutions/Everything_is_Better_with_Friends-Beyond_the_Basics-Part3-Solutions.pdf)
-    - [Part 4](solutions/Everything_is_Better_with_Friends-Beyond_the_Basics-Part4-Solutions.pdf)
+    - [Part 1](solutions/Solutions-Beyond_the_Basics-Part1-Everything_Is_Better_With_Friends-WUSS2022_Encore.pdf)
+    - [Part 2](solutions/Solutions-Beyond_the_Basics-Part2-Everything_Is_Better_With_Friends-WUSS2022_Encore.pdf)
+    - [Part 3](solutions/Solutions-Beyond_the_Basics-Part3-Everything_Is_Better_With_Friends-WUSS2022_Encore.pdf)
+    - [Part 4](solutions/Solutions-Beyond_the_Basics-Part4-Everything_Is_Better_With_Friends-WUSS2022_Encore.pdf)
     
-  - [Slides](slides/Everything_is_Better_with_Friends-Beyond_the_Basics-Slides.pdf) as a PDF file
- -->
+  - [Slides](slides/Slides-Beyond_the_Basics-Everything_Is_Better_With_Friends-WUSS2022_Encore.pdf) as a PDF file
+
 
 ## Setup Instructions & Prerequisites
 
